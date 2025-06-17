@@ -1,1 +1,0 @@
-I have learned how to clone, create repository, create a branch and a file. 
